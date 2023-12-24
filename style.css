@@ -1,0 +1,39 @@
+h1{
+    color: #fff;
+}
+p{
+    color:#fff;
+}
+h3{
+    color:#fff;
+}
+b{
+    color: #fff;
+}
+img{
+    height: 300px;
+    width: 300px;
+    border-radius: 100%;
+}
+button{
+    font-size: 24px;
+    background-color: aqua;
+    padding: 14px 40px;
+    border-radius: 12px;
+    
+}
+label{
+    
+    font-size: 100px;
+    color: gold;
+}
+input{
+    padding: 14px 40px;
+    text-align: center;
+    }
+.center
+{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
